@@ -8,6 +8,7 @@ import Navbar from "./components/Navbar/Navbar";
 import About from "./components/About/About";
 import Services from "./components/Services/Services";
 import Testimonials from "./components/Testimonials/Testimonial";
+import ImageGallery from "./components/ImageGallery/ImageGallery";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <About />
         <Services />
         <Testimonials />
+        <ImageGallery />
       </Router>
 
     </div>
