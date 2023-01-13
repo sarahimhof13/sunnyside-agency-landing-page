@@ -45,6 +45,7 @@ export const GlobalStyle = createGlobalStyle`
     :root {
         --white: #FFFFFF;
         --light-cream: #FFFCF8;
+        --light-green: #458D7E;
         --grey: #808397;
         --dark-grey: #24303E;
         --medium-grey: #5B636D;
@@ -52,5 +53,7 @@ export const GlobalStyle = createGlobalStyle`
         --red: #FE7766;
         --dark-green: #24554A;
         --dark-blue: #19536C;
+        --turquoise: #90D4C6;
+        --medium-green: #2C7566;
     }
 `;

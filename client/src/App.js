@@ -9,6 +9,7 @@ import About from "./components/About/About";
 import Services from "./components/Services/Services";
 import Testimonials from "./components/Testimonials/Testimonial";
 import ImageGallery from "./components/ImageGallery/ImageGallery";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Services />
         <Testimonials />
         <ImageGallery />
+        <Footer/>
       </Router>
 
     </div>
