@@ -7,6 +7,7 @@ import HeroBanner from "./components/Hero/HeroBanner";
 import Navbar from "./components/Navbar/Navbar";
 import About from "./components/About/About";
 import Services from "./components/Services/Services";
+import Testimonials from "./components/Testimonials/Testimonial";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <HeroBanner />
         <About />
         <Services />
+        <Testimonials />
       </Router>
 
     </div>

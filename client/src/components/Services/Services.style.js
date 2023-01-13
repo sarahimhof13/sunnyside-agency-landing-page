@@ -12,6 +12,7 @@ export const ServicesCardContainer = styled.div`
     width: auto;
     text-align: center;
     padding: 398px 24px 59px 24px;
+    margin-bottom: 64px;
 `
 
 export const ServicesTitle = styled.h3`
