@@ -38,7 +38,8 @@ export const GlobalStyle = createGlobalStyle`
     p {
         line-height: 1.625rem;
         font-size: 1.125rem;
-        letter-spacing: -0.008rem;
+        font-weight: 600;
+        color: var(--dark-grey);
     }
 
     :root {
@@ -47,5 +48,6 @@ export const GlobalStyle = createGlobalStyle`
         --grey: #808397;
         --dark-grey: #24303E;
         --yellow: #FBD600;
+        --red: #FE7766;
     }
 `;
