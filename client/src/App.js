@@ -6,6 +6,7 @@ import { BrowserRouter as Router } from "react-router-dom";
 import HeroBanner from "./components/Hero/HeroBanner";
 import Navbar from "./components/Navbar/Navbar";
 import About from "./components/About/About";
+import Services from "./components/Services/Services";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Navbar />
         <HeroBanner />
         <About />
+        <Services />
       </Router>
 
     </div>

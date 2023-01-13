@@ -49,5 +49,7 @@ export const GlobalStyle = createGlobalStyle`
         --dark-grey: #24303E;
         --yellow: #FBD600;
         --red: #FE7766;
+        --dark-green: #24554A;
+        --dark-blue: #19536C;
     }
 `;

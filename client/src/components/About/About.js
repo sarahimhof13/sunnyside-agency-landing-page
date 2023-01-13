@@ -1,5 +1,5 @@
 import AboutSideCard from "./AboutSideCard";
-import { AboutContainer, AboutImg, StandOutImg } from "./About.style";
+import { AboutContainer, AboutImg } from "./About.style";
 
 import TransformImgMobile from "../../assets/mobile/image-transform.jpg";
 import StandOutImgMobile from "../../assets/mobile/image-stand-out.jpg"
